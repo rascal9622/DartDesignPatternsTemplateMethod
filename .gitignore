@@ -1,0 +1,16 @@
+# Custom
+*
+!lib/
+lib/*
+!lib/main.dart
+!lib/*.dart
+
+!lib/Constants/
+lib/Constants/*
+!lib/Constants/*.dart
+
+!pubspec.yaml
+
+
+!README.md
+!*.gitignore
